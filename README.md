@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ campus-safety-course
+# 🛡️ campus-safety-course-bypass
 
 **Claude Skill — 校园安全教育课程自动学习助手**
 
