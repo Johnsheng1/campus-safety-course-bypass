@@ -80,7 +80,7 @@ campus-safety-course/
 ### 方式二：手动安装
 
 ```bash
-git clone https://github.com/<your-name>/campus-safety-course.git
+git clone https://github.com/Johnsheng1/campus-safety-course-bypass.git
 # 将 campus-safety-course 文件夹复制到 Skills 目录后注册
 ```
 
