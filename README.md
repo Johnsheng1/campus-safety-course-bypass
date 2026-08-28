@@ -2,6 +2,8 @@
 
 # 🛡️ campus-safety-course-bypass
 
+# IMPORTANT：2026/8/28系统鉴权升级，需要抓包获得SESSION的cookie值才能继续使用本skill以及本项目分支的油猴脚本
+# 你可以使用 https://github.com/ECXiaobai/jiangsu-safety-platform-skip-optimized 作为替代
 **Claude Skill — 校园安全教育课程自动学习助手**
 
 自动完成校园安全教育平台（`wap.xiaoyuananquantong.com`）的新生必修课程学习与正式考试。
